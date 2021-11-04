@@ -1,3 +1,3 @@
 # CodeWars-Solutions
 
-You can see my own answers to the questions I solved in CodeWars here. :)
+Here you can see the answers to the questions I solved with Python in CodeWars. :)
